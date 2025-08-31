@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Backend Projects**
 
-- 🌱 I’m currently learning **Node.js,Express.js and Javascript and DSA**
+- 🌱 I’m currently learning **Node.js,Express.js, Javascript and DSA**
 
 - 📫 How to reach me **mritik424@gmail.com**
 
