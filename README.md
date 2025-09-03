@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ritik Mishra</h1>
 <h3 align="center">BACK-END DEVELOPER</h3>
 
-- 🔭 I’m currently working on **Backend Projects**
+-  I’m currently working on **Backend Projects**
 
-- 🌱 I’m currently learning **Node.js,Express.js, Javascript and DSA**
+-  I’m currently learning **Node.js,Express.js, Javascript and DSA**
 
-- 📫 How to reach me **mritik424@gmail.com**
+-  How to reach me **mritik424@gmail.com**
 
-- ⚡ Fun fact **I'm Dumb**
+-  Fun fact **I'm Dumb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
