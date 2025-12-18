@@ -7,7 +7,7 @@
 <h3 align="center">Full Stack Developer | Backend Enthusiast</h3>
 
 <p align="center">
-  <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
+  <em>"Less noise. More building"</em>
 </p>
 
 ---
