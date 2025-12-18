@@ -16,7 +16,6 @@
 - 🌱 I’m currently learning **Node.js, Express.js, Javascript, and DSA**
 - 💬 Ask me about **MERN Stack, REST APIs, and Competitive Programming**
 - 📫 How to reach me: **mritik424@gmail.com**
-- 😄 Fun fact: **Solving problems one bug at a time!**
 
 ---
 
@@ -36,23 +35,13 @@
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Art0citus&show_icons=true&theme=radical" alt="Art0citus GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Art0citus&theme=radical" alt="Art0citus GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Art0citus&theme=radical" alt="Art0citus GitHub Trophies" />
-</p>
-
----
 
 ## 🏆 Top Projects
 
