@@ -42,12 +42,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-
-## 🏆 Top Projects
-
-- [Project One](https://github.com/Art0citus/project-one): Short description of the project.
-- [Project Two](https://github.com/Art0citus/project-two): Short description of the project.
-
 ---
 
 <!-- If you have a blog -->
