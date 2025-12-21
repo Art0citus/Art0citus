@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <b>Thank for visiting my profile!</b>
+  <b>Thanks for visiting my profile!</b>
 </p>
