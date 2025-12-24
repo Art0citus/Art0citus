@@ -12,7 +12,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Backend Projects**
+- 🔭 I’m currently working on **Full stack Projects**
 - 🌱 I’m currently learning **Node.js, Express.js, Javascript, and DSA**
 - 💬 Ask me about **MERN Stack, REST APIs, and Competitive Programming**
 - 📫 How to reach me: **mritik424@gmail.com**
