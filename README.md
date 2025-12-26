@@ -1,8 +1,3 @@
-<!-- Profile Views Counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Art0citus&label=Profile%20views&color=0e75b6&style=flat" alt="Art0citus" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Ritik Mishra</h1>
 <h3 align="center">Full Stack Developer | Backend and AI Enthusiast</h3>
 
@@ -12,10 +7,9 @@
 
 ---
 
-- 🔭 I’m currently working on **Full stack Projects**
-- 🌱 I’m currently learning **Node.js, Express.js, Javascript, and DSA**
-- 💬 Ask me about **MERN Stack, REST APIs, and Competitive Programming**
-- 📫 How to reach me: **mritik424@gmail.com**
+- 🔭 I’m currently working on **Scalable full stack Projects, AI integration and Agentic AI**
+- 🌱 I’m currently learning **Machine Learning with a focus on real-world applications and scalable system design**
+- 📫 I write blogs on [Substack](https://substack.com/@ritikmxshra)
 
 ---
 
@@ -47,11 +41,14 @@
 <!-- If you have a blog -->
 ## ✍️ Blog
 
-- [How to Build REST APIs with Express.js](#)
-- [Getting Started with MongoDB](#)
+- [How to Build REST APIs with Express.js](https://open.substack.com/pub/ritikmxshra/p/coming-soon?r=6lx5nm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+- [Debugging Is a Skill, Not a Punishment](https://open.substack.com/pub/ritikmxshra/p/debugging-is-a-skill-not-a-punishment?r=6lx5nm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
 ---
 
 <p align="center">
   <b>Thanks for visiting my profile!</b>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Art0citus&label=Profile%20views&color=0e75b6&style=flat" alt="Art0citus" />
 </p>
