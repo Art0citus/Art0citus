@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ritik Mishra</h1>
-<h3 align="center">Full Stack Developer | Backend Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Backend and AI Enthusiast</h3>
 
 <p align="center">
   <em>"Less noise. More building"</em>
