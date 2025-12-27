@@ -8,7 +8,7 @@
 ---
 
 - 🔭 I’m currently working on **Scalable full stack Projects, AI integration and Agentic AI**
-- 🌱 I’m currently learning **Machine Learning with a focus on real-world applications and scalable system design**
+- 🌱 Here is my [Portfolio](https://portfolio-website-rho-five-32.vercel.app/)
 - 📫 I write blogs on [Substack](https://substack.com/@ritikmxshra)
 
 ---
@@ -40,6 +40,9 @@
 
 
 </p>
+```
+
+        A R T O C I T U S
 
 ---
 
