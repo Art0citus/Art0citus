@@ -47,7 +47,7 @@
 ## ✍️ Blog
 
 - [How to Build REST APIs with Express.js](https://open.substack.com/pub/ritikmxshra/p/coming-soon?r=6lx5nm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
-- [Debugging Is a Skill, Not a Punishment](https://open.substack.com/pub/ritikmxshra/p/debugging-is-a-skill-not-a-punishment?r=6lx5nm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+- [Debugging Is a Skill, Not a Punishment.](https://open.substack.com/pub/ritikmxshra/p/debugging-is-a-skill-not-a-punishment?r=6lx5nm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
 ---
 
