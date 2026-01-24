@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Backend and AI Enthusiast</h3>
 
 <p align="center">
-  <em>"Less noise. More building"</em>
+  <em>"Less noise, More building"</em>
 </p>
 
 ---
