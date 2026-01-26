@@ -7,9 +7,9 @@
 
 ---
 
-- 🔭 I’m currently working on **Scalable full stack Projects, AI integration and Agentic AI**
-- 🌱 Here is my [Portfolio](https://portfolio-website-rho-five-32.vercel.app/)
-- 📫 I write blogs on [Substack](https://substack.com/@ritikmxshra)
+-  I’m currently working on **Scalable full stack Projects, AI integration and Agentic AI**
+-  Here is my [Portfolio](https://portfolio-website-rho-five-32.vercel.app/)
+-  I write blogs on [Substack](https://substack.com/@ritikmxshra)
 
 ---
 
@@ -36,9 +36,6 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-
-
 </p>
 
 
