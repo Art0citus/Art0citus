@@ -1,5 +1,5 @@
 <h1 align="center">Hello,👋 I'm Ritik Mishra.</h1>
-<h3 align="center">Software Developer Backend & AI integration.</h3>
+<h3 align="center">System and Backend</h3>
 
 <p align="center">
   <em>"Less noise, More building"</em>
