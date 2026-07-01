@@ -51,15 +51,14 @@
 <p align="center">
   <b>Thanks for visiting my profile!</b>
 </p>
-<pre>
-                                        █████╗ ██████╗ ████████╗ ██████╗  ██████╗  ██╗████████╗██╗   ██╗███████╗
-                                        ██╔══██╗██╔══██╗╚══██╔══╝██╔═══██╗██╔════╝ ██║╚══██╔══╝██║   ██║██╔════╝
-                                        ███████║██████╔╝   ██║   ██║   ██║██║      ██║   ██║   ██║   ██║███████╗
-                                        ██╔══██║██╔══██╗   ██║   ██║   ██║██║      ██║   ██║   ██║   ██║╚════██║
-                                        ██║  ██║██║  ██║   ██║   ╚██████╔╝╚██████╔╝██║   ██║   ╚██████╔╝███████║
-                                        ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝  ╚═════╝ ╚═╝   ╚═╝    ╚═════╝ ╚══════╝
-</pre>
 
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Art0citus/Art0citus/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Art0citus/Art0citus/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Art0citus/Art0citus/output/github-contribution-grid-snake.svg">
+</picture>
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Art0citus&label=Profile%20views&color=0e75b6&style=flat" alt="Art0citus" />
 </p>
