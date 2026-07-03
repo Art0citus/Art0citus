@@ -1,5 +1,4 @@
-<h1 align="center">Hello,👋 I'm Ritik Mishra.</h1>
-<h3 align="center">System and Backend</h3>
+<h1 align="center"><a href="https://github.com/Art0citus"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=808080&center=true&width=435&lines=Hi%2C+I'm+Ritik+Mishra" alt="Typing SVG" /></a> </h1>
 
 <p align="center">
   <em>"Less noise, More building"</em>
