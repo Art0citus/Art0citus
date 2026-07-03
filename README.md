@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://github.com/Art0citus"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=808080&center=true&width=435&lines=Hi%2C+I'm+Ritik+Mishra" alt="Typing SVG" /></a> </h1>
 
 <p align="center">
-  <em>"Less noise, More building"</em>
+  <em>"Givinig up is not in the blood sir, it's not in the blood"</em>
 </p>
 
 ---
