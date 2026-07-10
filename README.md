@@ -21,9 +21,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 ---
-<!-- If you have a blog -->
-## ✍️ Blogs
 
+✍️ Blogs
 - [How to Build REST APIs with Express.js](https://open.substack.com/pub/ritikmxshra/p/coming-soon?r=6lx5nm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 - [Debugging Is a Skill, Not a Punishment.](https://open.substack.com/pub/ritikmxshra/p/debugging-is-a-skill-not-a-punishment?r=6lx5nm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
