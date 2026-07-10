@@ -6,22 +6,6 @@
 
 ---
 
--  I’m currently working on **Scalable full stack Projects, AI integration and Agentic AI**
--  Here is my [Portfolio](https://portfolio-website-rho-five-32.vercel.app/)
--  I write blogs on [Substack](https://substack.com/@ritikmxshra)
-
----
-
-## 🚀 lets Connect 
-
-<p align="left">
-  <a href="https://twitter.com/artocitus" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ritikmxshra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/ritikmxshra" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -37,19 +21,13 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-
+---
 
 <!-- If you have a blog -->
 ## ✍️ Blogs
 
 - [How to Build REST APIs with Express.js](https://open.substack.com/pub/ritikmxshra/p/coming-soon?r=6lx5nm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 - [Debugging Is a Skill, Not a Punishment.](https://open.substack.com/pub/ritikmxshra/p/debugging-is-a-skill-not-a-punishment?r=6lx5nm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile!</b>
-</p>
 
 ---
 <picture>
@@ -60,4 +38,9 @@
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Art0citus&label=Profile%20views&color=0e75b6&style=flat" alt="Art0citus" />
+</p>
+
+---
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
 </p>
