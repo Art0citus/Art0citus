@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
----
+
 
 ✍️ Blogs
 - [How to Build REST APIs with Express.js](https://open.substack.com/pub/ritikmxshra/p/coming-soon?r=6lx5nm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
